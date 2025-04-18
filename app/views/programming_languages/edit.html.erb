@@ -1,0 +1,12 @@
+<% content_for :title, "Editing programming language" %>
+
+<h1>Editing programming language</h1>
+
+<%= render "form", programming_language: @programming_language %>
+
+<br>
+
+<div>
+  <%= link_to "Show this programming language", @programming_language %> |
+  <%= link_to "Back to programming languages", programming_languages_path %>
+</div>
