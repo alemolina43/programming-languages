@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic ruby app, created for educational purposes as a way of practicing the ruby commands to create a new project using the terminal
 
 Things you may want to cover:
 
